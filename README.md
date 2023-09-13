@@ -45,12 +45,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauragalindo16" />
   </a>
 
-<a href="https://github.com/Mauragalindo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauragalindo16" alt="Dave's github stats"/>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mauragalindo16&theme=aura-dark&hide_border=FALSO&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=491)](https://git.io/streak-stats)
 
 <br/>
 <br/>
 <br/>
-
 
