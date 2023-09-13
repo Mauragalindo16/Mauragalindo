@@ -1,14 +1,18 @@
 <h1 align="center"><b>Hola, soy Maura Galindo </b><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="40px"></h1>
 
+
 💡 &nbsp;
 🎓 &nbsp;
 🌱 &nbsp;
 
-  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <img alt="Night Coding" src="https://media.giphy.com/media/9LwSYQz5jGpOyYr163/giphy.gif" width= 
 "300" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -22,14 +26,14 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
 <p align="center">
   <h1> 🤝🏻 &nbsp; Contactame
   </h1>  
 </p>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/maura-galindo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mauralizeth1699@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -37,15 +41,16 @@
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+<a href="https://github.com/Mauragalindo16">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauragalindo16" />
   </a>
 
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/Mauragalindo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauragalindo16" alt="Dave's github stats"/>
 </a>
 
 <br/>
 <br/>
 <br/>
+
 
