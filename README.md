@@ -9,7 +9,6 @@
 🎓 &nbsp;
 🌱 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img alt="Night Coding" src="https://media.giphy.com/media/9LwSYQz5jGpOyYr163/giphy.gif" width= 
 "300" align="right"/>
@@ -30,7 +29,6 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
 <p align="center">
   <h1> 🤝🏻 &nbsp; Contactame
