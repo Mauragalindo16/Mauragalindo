@@ -4,10 +4,8 @@
 
 
 
-
-💡 &nbsp;
-🎓 &nbsp;
-🌱 &nbsp;
+🎓 &nbsp; Actualmente estoy estudiando Data Analytics en Coderhouse
+🌱 &nbsp; 
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/9LwSYQz5jGpOyYr163/giphy.gif" width= 
