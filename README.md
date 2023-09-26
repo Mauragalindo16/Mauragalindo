@@ -27,6 +27,10 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+Mis proyectos
+https://wk.ar/sK9
+https://miprimersitioweb.org.ar/proyectos/nube/galindo_maura/
+https://xd.adobe.com/view/927b248d-f15a-400c-94e4-2f873af06d26-c728/?fullscreen&hints=off
  
 <p align="center">
   <h1> 🤝🏻 &nbsp; Contactame
